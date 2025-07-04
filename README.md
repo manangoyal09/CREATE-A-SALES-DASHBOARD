@@ -120,3 +120,7 @@ Compare category and sub-category performance.
 
 It serves both strategic (e.g., market expansion, product focus) and operational (e.g., payment modes, customer targeting) decision-making needs. With interactivity and powerful visuals, it is a data-driven storytelling tool for actionable insights in e-commerce business analytics.
 
+# OUTPUT 
+![Image](https://github.com/user-attachments/assets/6f75e0fd-ac32-467a-852b-a5410a478e22)
+
+
